@@ -1,6 +1,6 @@
 # Hi, I'm Kritika Sengupta 👋
 
-I'm a pre-final year BCA undergraduate at MID (affiliated to MAKAUT) and an aspiring software developer passionate about building real-world applications, solving problems, and continuously learning new technologies.
+I'm a  BCA undergraduate at MID (affiliated to MAKAUT) and an aspiring software developer passionate about building real-world applications, solving problems, and continuously learning new technologies.
 
 ## About Me
 
